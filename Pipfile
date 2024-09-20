@@ -8,6 +8,12 @@ flask = "*"
 flask-socketio = "*"
 langchain = "*"
 ollama = "*"
+langchain-ollama = "*"
+requests = "*"
+cryptography = "*"
+python-dotenv = "*"
+langchain-community = "*"
+openai = "*"
 
 [dev-packages]
 

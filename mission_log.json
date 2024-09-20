@@ -1,0 +1,9 @@
+{
+    "player_id": "agent_007",
+    "missions_completed": [],
+    "current_mission": {
+        "mission_name": "What is the weather in Tokyo?",
+        "started": "2024-09-19T18:31:48.055099"
+    },
+    "game_state": {}
+}
